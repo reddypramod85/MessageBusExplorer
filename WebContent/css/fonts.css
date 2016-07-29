@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'HPSimplified';
+    src: url('hpsimplified_rg-webfont.eot');
+    src: url('hpsimplified_rg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('hpsimplified_rg-webfont.woff') format('woff'),
+         url('hpsimplified_rg-webfont.ttf') format('truetype'),
+         url('hpsimplified_rg-webfont.svg#HPSimplified') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HPSimplified';
+    src: url('hpsimplified_it-webfont.eot');
+    src: url('hpsimplified_it-webfont.eot?#iefix') format('embedded-opentype'),
+         url('hpsimplified_it-webfont.woff') format('woff'),
+         url('hpsimplified_it-webfont.ttf') format('truetype'),
+         url('hpsimplified_it-webfont.svg#HPSimplified') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HPSimplified';
+    src: url('hpsimplified_bd-webfont.eot');
+    src: url('hpsimplified_bd-webfont.eot?#iefix') format('embedded-opentype'),
+         url('hpsimplified_bd-webfont.woff') format('woff'),
+         url('hpsimplified_bd-webfont.ttf') format('truetype'),
+         url('hpsimplified_bd-webfont.svg#HPSimplified') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HPSimplified';
+    src: url('hpsimplified_bdit-webfont.eot');
+    src: url('hpsimplified_bdit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('hpsimplified_bdit-webfont.woff') format('woff'),
+         url('hpsimplified_bdit-webfont.ttf') format('truetype'),
+         url('hpsimplified_bdit-webfont.svg#HPSimplified') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HPSimplifiedLight';
+    src: url('hpsimplified_lt-webfont.eot');
+    src: url('hpsimplified_lt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('hpsimplified_lt-webfont.woff') format('woff'),
+         url('hpsimplified_lt-webfont.ttf') format('truetype'),
+         url('hpsimplified_lt-webfont.svg#HPSimplifiedLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'HPSimplifiedLight';
+    src: url('hpsimplified_ltit-webfont.eot');
+    src: url('hpsimplified_ltit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('hpsimplified_ltit-webfont.woff') format('woff'),
+         url('hpsimplified_ltit-webfont.ttf') format('truetype'),
+         url('hpsimplified_ltit-webfont.svg#HPSimplifiedLight') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}

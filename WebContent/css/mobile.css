@@ -1,0 +1,73 @@
+body {
+	padding: 0;
+}
+
+div.page-container {
+	margin-bottom: 0;
+	padding-bottom: 5px;
+	width: auto;
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-top: 18px;
+}
+
+.hide-desktop {
+	display: block;
+}
+
+.hide-mobile {
+	display: none!important;
+}
+
+/* Site Header */
+div.hpnn-header {
+	padding-bottom: 18px;
+}
+
+div.hpnn-header img {
+	width: 40px;
+	height: auto;
+	margin: 0 0 0 0;
+}
+
+div.hpnn-header h2 {
+	font-size: 28px;
+	line-height: 1em;
+	margin: 0;
+	padding: 6px 0 0 0;
+}
+
+
+/* Logon Form */
+input.email-address {
+	width: 95%;
+}
+/* input.computer-pass, input.auth-token {
+	width: 95%;
+} */
+
+/* Main */
+div.page-main {
+	float: none;
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+
+.pass-help {
+	margin-right: 30px;
+}
+
+/* Side */
+div.page-side {
+	float: none;
+	width: 100%;
+}
+
+/* Footer */
+div.footer {
+	width: auto;
+	padding-left: 3%;
+	padding-right: 3%;
+}

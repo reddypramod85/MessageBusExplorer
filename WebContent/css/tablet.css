@@ -1,0 +1,91 @@
+body {
+	padding: 10px 0 20px 0;
+}
+
+.hide-tablet {
+	display: none!important;
+}
+
+.hide-desktop {
+	display: block;
+}
+
+div.tablet-collapse {
+	width: auto;
+	float: none;
+	margin-right: 0;
+}
+
+div.page-container {
+	width: 630px;
+	padding: 30px 32px 30px 32px;
+}
+
+div.page-main {
+	
+}
+
+
+/* Page Side */
+div.page-side {
+	width: 300px;
+}
+div.page-side .btn {
+	padding: 10px 10px;
+}
+
+p.get-it {
+	clear: both;
+	float: none;
+	width: 100%;
+}
+
+/* Login Form */
+div.login-form label {
+	display: block;
+	clear: both;
+}
+div.email-login-help .help {
+	float: left!important;
+}
+div.email-login-help .checkbox {
+	float: left;
+	clear: none;
+	margin-left: 40px;
+}
+input.email-address {
+	width: 278px;
+}
+/* input.computer-pass, input.auth-token {
+	width: 278px;
+} */
+
+/* Footer */
+div.footer {
+	width: 630px;
+}
+
+div.ft-text,
+div.ft-side {
+	width: auto;
+	float: none;
+}
+
+div.ft-side .nav {
+	float: none;
+	left: -12px;
+}
+
+div.ft-side p {
+	text-align: left;
+}
+
+/* Page Main Content */
+div.page-main-content-one,
+div.page-main-content-two {
+	float: none;
+}
+
+div.page-main-content-two {
+	padding: 10px 0 0 0;
+}
